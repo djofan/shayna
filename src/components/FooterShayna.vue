@@ -9,8 +9,8 @@
                             <a href="#"><img src="img/logo_website_shayna_white.png" alt="" /></a>
                         </div>
                         <ul>
-                            <li>Address: Taman City, Bekasi</li>
-                            <li>Phone: +628 2113401340</li>
+                            <li>Address: Taman Kota, Bekasi</li>
+                            <li>Phone: +628 1234567890</li>
                             <li>Email: hello.shayna@gmail.com</li>
                         </ul>
                         <div class="footer-social">
